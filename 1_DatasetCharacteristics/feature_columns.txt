@@ -1,0 +1,8 @@
+Is_Weekend
+Temperature_Category
+Windgeschwindigkeit
+Warengruppe_1
+Warengruppe_2
+Warengruppe_3
+Warengruppe_4
+Warengruppe_5
