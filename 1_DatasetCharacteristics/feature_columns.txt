@@ -1,4 +1,9 @@
 KiWo
 Is_Weekend
 Temperature_Category
-Windgeschwindigkeit_Beaufort
+Warengruppe_1
+Warengruppe_2
+Warengruppe_3
+Warengruppe_4
+Warengruppe_5
+Warengruppe_6
