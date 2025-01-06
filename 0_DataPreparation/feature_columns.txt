@@ -2,7 +2,7 @@ KiWo
 Is_Weekend
 Temperature_Category
 Windgeschwindigkeit_Beaufort
-Rain_StatusCloud_Status
+Rain_StatusCloud_StatusFerien_Category
 Warengruppe_1
 Warengruppe_2
 Warengruppe_3
