@@ -1,10 +1,11 @@
 KiWo
 Is_Weekend
 Temperature_Category
-Windgeschwindigkeit_Beaufort
+Wind_Status
 Rain_Status
 Cloud_Status
-Weihnachten_SommerHoliday
+Is_Ferien
+Holiday
 Warengruppe_1
 Warengruppe_2
 Warengruppe_3
