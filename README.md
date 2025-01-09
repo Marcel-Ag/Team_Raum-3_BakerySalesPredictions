@@ -17,12 +17,12 @@ Regression
 -   **Best Model:** NewNeuralModel
 -   **Evaluation Metric:** MAPE
 -   **Result by Category** (Identifier):
-    -   **Bread** (1): 23.91%
-    -   **Rolls** (2): 15.45%
-    -   **Croissant** (3): 21.06%
-    -   **Confectionery** (4): 24.03%
-    -   **Cake** (5): 16.78%
-    -   **Seasonal Bread** (6): 46.04%
+    -   **Bread** (1): 24.14%
+    -   **Rolls** (2): 14.76%
+    -   **Croissant** (3): 21.08%
+    -   **Confectionery** (4): 23.68%
+    -   **Cake** (5): 16.18%
+    -   **Seasonal Bread** (6): 51.67s%
 
 ## Documentation
 
