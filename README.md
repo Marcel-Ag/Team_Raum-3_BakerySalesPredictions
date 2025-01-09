@@ -2,7 +2,7 @@
 
 ## Repository Link
 
-https://github.com/your_username/your_project_name
+https://github.com/Marcel-Ag/Team_Raum-3_BakerySalesPredictions
 
 ## Description
 
@@ -14,24 +14,24 @@ Regression
 
 ### Results Summary
 
--   **Best Model:** [Name of the best-performing model]
+-   **Best Model:** NewNeuralModel
 -   **Evaluation Metric:** MAPE
 -   **Result by Category** (Identifier):
-    -   **Bread** (1): [XX]%
-    -   **Rolls** (2): [XX]%
-    -   **Croissant** (3): [XX]%
-    -   **Confectionery** (4): [XX]%
-    -   **Cake** (5): [XX]%
-    -   **Seasonal Bread** (6): [XX]%
+    -   **Bread** (1): 23.91%
+    -   **Rolls** (2): 15.45%
+    -   **Croissant** (3): 21.06%
+    -   **Confectionery** (4): 24.03%
+    -   **Cake** (5): 16.78%
+    -   **Seasonal Bread** (6): 46.04%
 
 ## Documentation
 
-1.  [**Data Import and Preparation**](0_DataPreparation/)
-3.  [**Dataset Characteristics (Barcharts)**](1_DatasetCharacteristics/)
-4.  [**Baseline Model**](2_BaselineModel/)
-5.  [**Model Definition and Evaluation**](3_Model/)
-6.  [**Presentation**](4_Presentation/README.md)
+1.  [**Data Import and Preparation**](/workspaces/Team_Raum-3_BakerySalesPredictions/0_DataPreparation/DataPrep.ipynb)
+3.  [**Dataset Characteristics (Barcharts)**](/workspaces/Team_Raum-3_BakerySalesPredictions/1_DatasetCharacteristics/DataVis.ipynb)
+4.  [**Baseline Model**](/workspaces/Team_Raum-3_BakerySalesPredictions/2_BaselineModel/LinRegModel.ipynb)
+5.  [**Model Definition and Evaluation**](/workspaces/Team_Raum-3_BakerySalesPredictions/3_Model/NewNeuralModel.ipynb)
+6.  [**Presentation**](/workspaces/Team_Raum-3_BakerySalesPredictions/4_Presentation/Präsentation_Raum3.pptx)
 
 ## Cover Image
 
-![](CoverImage/cover_image.png)
+![](/workspaces/Team_Raum-3_BakerySalesPredictions/CoverImage/cover_image.png)
