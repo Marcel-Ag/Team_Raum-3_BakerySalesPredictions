@@ -26,12 +26,12 @@ Regression
 
 ## Documentation
 
-1.  [**Data Import and Preparation**](/workspaces/Team_Raum-3_BakerySalesPredictions/0_DataPreparation/DataPrep.ipynb)
-3.  [**Dataset Characteristics (Barcharts)**](/workspaces/Team_Raum-3_BakerySalesPredictions/1_DatasetCharacteristics/DataVis.ipynb)
-4.  [**Baseline Model**](/workspaces/Team_Raum-3_BakerySalesPredictions/2_BaselineModel/LinRegModel.ipynb)
-5.  [**Model Definition and Evaluation**](/workspaces/Team_Raum-3_BakerySalesPredictions/3_Model/NewNeuralModel.ipynb)
-6.  [**Presentation**](/workspaces/Team_Raum-3_BakerySalesPredictions/4_Presentation/Präsentation_Raum3.pptx)
+1.  [**Data Import and Preparation**](https://github.com/Marcel-Ag/Team_Raum-3_BakerySalesPredictions/blob/main/0_DataPreparation/DataPrep.ipynb)
+3.  [**Dataset Characteristics (Barcharts)**](https://github.com/Marcel-Ag/Team_Raum-3_BakerySalesPredictions/blob/main/1_DatasetCharacteristics/DataVis.ipynb)
+4.  [**Baseline Model**](https://github.com/Marcel-Ag/Team_Raum-3_BakerySalesPredictions/blob/main/2_BaselineModel/LinRegModel.ipynb)
+5.  [**Model Definition and Evaluation**](https://github.com/Marcel-Ag/Team_Raum-3_BakerySalesPredictions/blob/main/3_Model/NewNeuralModel.ipynb)
+6.  [**Presentation**](https://github.com/Marcel-Ag/Team_Raum-3_BakerySalesPredictions/blob/main/4_Presentation/Präsentation_Raum3.pptx)
 
 ## Cover Image
 
-![](/workspaces/Team_Raum-3_BakerySalesPredictions/CoverImage/cover_image.png)
+![](https://github.com/Marcel-Ag/Team_Raum-3_BakerySalesPredictions/blob/main/CoverImage/cover_image.png)
